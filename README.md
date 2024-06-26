@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mobile<br>I'm looking to collaborate on Android, Web, Linux..<br>I'm currently learning Android(Java, Kotlin and Flutter), Web (Angular, Java, Spring).<br>Ask me about development mobile and back-end Java and I'm gonna try help you.
+I'm currently working on Mobile<br>I'm looking to collaborate on Android, Web, Linux..<br>I'm currently learning Android(Java, Kotlin and Flutter), Web (Angular, Java, Spring).<br>Ask me about development mobile and Java Web and I'm gonna try help you.
 
 
 ## 🌐 Socials:
