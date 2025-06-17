@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm currently working with Web development using HTML, CSS, JavaScript, Angular, Node.js, and Python.<br>
+I'm currently working with Web development using HTML, CSS, JavaScript, Node.js, Java and Python.<br>
 I'm looking to collaborate on full stack web projects and AI-related applications.<br>
-I'm currently learning more about backend development with Node.js and Python, advanced PostgreSQL, and LangChain for AI integration.<br>
+I'm currently learning more about backend development with Java, Node.js, advanced PostgreSQL, Python and LangChain for AI integration.<br>
 Ask me about web development, APIs, database design, or how to integrate AI using LangChain — I'll do my best to help you.
 
 
